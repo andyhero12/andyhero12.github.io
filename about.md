@@ -4,12 +4,8 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+Hi! I'm Andrew, and I'm a rising senior (class of 2024) studying Computer Science at Cornell University.
 
-### More Information
+### Interests
 
-A place to include any other types of information that you'd like to include about yourself.
-
-### Contact me
-
-[email@domain.com](mailto:email@domain.com)
+My interests lie within Computer Architecture, Compiler Development, and Distributed Systems. I love seeing just how the hardware and software interact together to power our modern computers.
