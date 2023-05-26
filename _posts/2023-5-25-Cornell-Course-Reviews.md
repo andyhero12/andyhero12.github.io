@@ -10,8 +10,8 @@ Similar pages at CMU:
 [4](https://hachiyuki8.github.io/cmu/course-reviews),
 [5](https://fanpu.io/courses/)
 
-My thoughts on Cornell Courses I've taken. My experiences may be different from others due to the 
-more strict Covid-19 restrictions and virtual classes during my freshman year. 
+My thoughts on Cornell Courses I've taken. My experiences may differ from others due to the 
+strict Covid-19 restrictions and virtual classes during my freshman year. I'm better at applied components of computer science compared to theory. 
 
 👍 indicates a class I really enjoyed.
 
@@ -27,7 +27,7 @@ Background:
 - Math Background
     - I did subset of Multi-Variable Calculus in high school
     - I never qualified for any awards for competition math.
-
+    
 ##### Degree: 
 B.S, M.Eng in Computer Science 
 
@@ -118,7 +118,7 @@ College of Engineering
 ## Spring 2023 Difficulty: Hard/Death
 - ⭐ CS 4120: Introduction to Compilers
 - ⭐ CS 4121: Practicum in Compilers
-- CS 4414: Systems Programming
+- 👍 CS 4414: Systems Programming
 - ⭐ CS 5414: Distributed Computing Principles
 - ECE 5725: Embedded operating Systems
 - ENGRC 3350: Organizational Communication for Engineers
@@ -132,7 +132,7 @@ College of Engineering
 
 #### Three Things I Learned
 
-## Fall 2023
+## Fall 2023 Difficulty: TBD
 - ECE 5775: High Level Digital Design Automation
 - CS 5154: Software Testing
 - ECE 5750/ CS 5420: Advanced Computer Architecture
@@ -140,6 +140,7 @@ College of Engineering
 - CS 6230: Advanced Topics in Parallel Computing
 - CS 6458: Systems Optical Interconnect
 - PE 1520: Archery
+- Recruiting for Full Time
 - TA for CS 4410
 
 #### Reflection
