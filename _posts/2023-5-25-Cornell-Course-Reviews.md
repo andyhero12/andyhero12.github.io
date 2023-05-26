@@ -54,7 +54,7 @@ College of Engineering
 
     One regret I have is working with partners within the class. The projects aren't nearly large enough to warrant splitting up the work, and given that CS 1110 is an intro class, it takes away from an individual's learning. Through the projects, people should be encouraged to learn the core concepts. I routinely learned much more by debugging through tasks rather than immediately giving up, going to office hours, or asking my partner. The projects I worked alone on were far better learning experiences. 
 
-    Another issue I observed is that students with AP credit are exempt from taking this class, which is unfortunate. In my opinion, CS 2110, the subsequent course, doesn't do as good a job teaching the material. Consequently, many students who end up taking CS 1110 do not fully leverage the potential of the class due to their lack of commitment and effort in learning the material.
+    Another issue I observed is that students with AP credit are exempt from taking this class, which is unfortunate. In my opinion, CS 2110, the subsequent course, doesn't do as good a job teaching the material. On the other hand, many students who end up taking CS 1110 do not fully leverage the potential of the class due to their lack of commitment and effort in learning the material because CS 1110 is a required class. Even many potential CS majors who take the class don't take the class seriously, which severely hampers their foundational understanding for future CS classes.
 
     Despite the challenges posed by virtual learning, CS 1110 has played a pivotal role in cultivating my interest in Computer Science, thanks to its excellent teaching methods. I firmly believe that it stands out as one of the most well-taught classes offered at Cornell University. The core principles of debugging and computing, which I learned in this class, continue to resonate with me and greatly benefit my ongoing studies.
 
@@ -151,11 +151,18 @@ Given how well I did in freshman fall, I overloaded myself with too much work th
 - ⭐ ENGRD/ECE 2300: Digital Logic & Computer Organization
 - Math 2940: Linear Algebra for Engineers
 - TA for CS 1110
+
+    I started TAing for CS 1110 because I enjoyed taking the course. We hosted weekly discussion sections and had two hours of office hours. Taing CS 1110 helped me reinforce my understanding of basic Python syntax and computing principles. Furthermore, I gained the critical skill of explaining my thoughts to students who might not know the subject.
+
 - Recruiting for Internship
-- Reasearch (Dropped)
+
+    Recruiting for an internship was a four credit class on its own. I will expand more upon it in a separate blog. Recruiting added a lot of stress to an already stressful semester.
+
+<!-- - Reasearch (Dropped) -->
 
 #### Reflection
-As if I learned nothing the previous semester, I continued to overload myself this semester. 
+
+As if I had learned nothing the previous semester, I continued to overload myself this semester. I chose to take four heavy STEM classes in addition to recruiting for an internship. I hadn't been recruited for an internship prior, so it was a learning experience doing leetcode and learning to apply to places consistently. This semester was by far the most challenging in terms of my stress levels. Each day I would constantly be swamped with the number of problem sets I had to complete, exams I had to prepare for, and the constant threat that I wouldn't get an internship. 
 ## Spring 2022 Difficulty: Medium
 - ARKEO 2668: Ancient Egyptian Civilization
 - ECE 3140/ CS 3420: Embedded Systems
