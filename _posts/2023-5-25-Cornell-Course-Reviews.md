@@ -211,7 +211,7 @@ Given how well I did in freshman fall, I overloaded myself with too much work th
 
 Credits: 19
 
-As if I had learned nothing the previous semester, I continued to overload myself this semester. I chose to take five heavy STEM classes in addition to recruiting for an internship. Each of these classes was a large amount of work individually, but together they became very hard to manage. I hadn't been recruited for an internship prior, so it was a learning experience doing leetcode and learning to apply to places consistently. This semester was by far the most challenging regarding my stress levels. Each day I would constantly be swamped with the number of problem sets I had to complete, exams I had to prepare for, and the constant threat that I wouldn't get an internship. 
+As if I had learned nothing the previous semester, I continued to overload myself this semester. I chose to take five heavy STEM classes in addition to recruiting for an internship. Each of these classes was a large amount of work individually, but together they became very hard to manage. Having around 3-4 problem sets due a week made diving deeper into any subject difficult. Additionally, I hadn't been recruited for an internship prior, so it was a learning experience doing leetcode and learning to apply to places consistently. This semester was by far the most challenging regarding my stress levels. Each day I would constantly be swamped with the number of problem sets I had to complete, exams I had to prepare for, and the constant threat that I wouldn't get an internship. 
 
 ## Spring 2022 Difficulty: Medium
 - ARKEO 2668: Ancient Egyptian Civilization
