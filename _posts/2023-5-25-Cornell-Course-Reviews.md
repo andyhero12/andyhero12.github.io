@@ -14,6 +14,8 @@ My thoughts on Cornell Courses I've taken. My experiences may differ from others
 
 I want to preface that the number of credits an average Cornell student takes is around 15 academic credits. I took 1-2 additional classes per semester compared to the average engineering student. Additionally, credit hours can be deceiving as some classes are much more work than their credits entail and vice versa. 
 
+Entering my junior year, I had a mentality shift where I started dedicating more time to the class I enjoyed rather than just getting requirements out of the way.
+
 👍 indicates a class I really enjoyed.
 
 ⭐ indicates a transformative class I strongly recommend taking.
@@ -250,6 +252,11 @@ As if I had learned nothing the previous semester, I continued to overload mysel
 
 - 👍 CS 4820: Intro Analysis of Algorithms
 
+    The second to last required class for CS majors. As many people have said, the class is quite a bit of work. There are weekly problem sets and multiple programming assignments. Conceptually, the topics were not too difficult. We covered greedy algorithms, dynamic programming, network flow, and Turing machines. 
+
+    There is a prevailing belief among many students that completing this class is essential for securing internships. While some of the greedy and dynamic programming algorithms covered are indeed useful, several other algorithms covered, such as network flow, tend to be beyond the scope of most interview requirements. In my opinion, CS 2110 provides a sufficient foundation to begin seeking internships.
+
+    Personally, I fairly enjoyed the course, and I never felt too stressed about it. However, this may be due to the fact that I had time to focus a large majority of my time on the class. 
 
 - 👍 ECE 3100: Probability and Inference
 
@@ -281,14 +288,52 @@ I was lucky enough to get an interview for Amazon in early spring, where I lande
 
 ## Fall 2022 Difficulty: Medium
 - 👍 CS 2024: C++ Programming
-- CS 4090: Teaching Experience in CS
+
+    This course offers a manageable workload and serves as an introduction to the fundamentals of C++. However, your level of engagement and effort in the class will directly impact your learning experience. There is a weekly programming assignment that builds upon the previous week's assignment. Each week, you incorporate the things you learned into your small program. Additionally, the two exams are similar to the practice exams. 
+
+    The course was taught relatively well, and I enjoyed attending the class. Reviewing the slides before class to understand the material better as the professor discusses the topics is helpful. 
+
+    I mostly decided to take this class because I need two more advisor-approved electives. Additionally, as I became interested in competitive programming, I recognized the value of gaining a deeper understanding of C++. Since Cornell does not offer a dedicated course on this programming language, this class allowed me to expand my knowledge in that area.
+
 - 👍 CS 4410: Operating Systems
-- CS 4780: Introduction to Machine Learning
+
+    The core backbone of all modern computers. Operating systems cover concurrency, threads, virtual memory, and file systems. There is a lot of content throughout the semester, and often some things can't be covered because there is so much material.
+
+    One area of improvement is the reinforcement of class content through homework and projects. There seems to be a scarcity of assignments, which hinders establishing a robust learning environment. I haven't taken OS practicum, but integrating it into the CS 4410 curriculum would enhance the course's overall quality. Students would have more opportunities to solidify their understanding by requiring practical applications alongside theoretical concepts.
+
+    On the other hand, the content is taught pretty well by Professor Alvisi. The class is interesting and provides much insight into how modern operating systems handle the underlying hardware. I may be biased, but I enjoy the content of systems courses. As a result, I spent a lot of time outside of class reading the OSTEP book for interview prep and for this class. 
+
+    Overall, system courses, including operating systems, align well with my aptitude and interests. The intricate interplay between hardware and software has always captivated me, and I appreciate the opportunity to delve into this domain.
+
+- 👍 CS 4780: Introduction to Machine Learning
+
+    The introduction machine learning course at Cornell is great for getting your feet wet. The course requires a strong foundation in linear algebra, probability, and logical reasoning. Topics in the course range from perceptron, MLE/MAP, Naive Bayes, Kernels, and deep learning. The class covers a breadth of different machine-learning topics. However, the wide variety of topics doesn't stop the class from diving deep into each topic it covers. As a result, it is a much better introduction class than CS 4700.
+
+    There were weekly problem sets and eight different programming projects. Each problem set and programming assignment closely follows the topics covered within the class, allowing students to reinforce their knowledge. 
+
+    In summary, the class provides a solid introduction to machine learning for anybody that plans to take more advanced courses in ML. 
+
 - ⭐ ECE 4750/ CS 4420 Computer Architecture
+
+    By far my favorite class of the semester, Professor Batten's Computer Architecture course is one the best ECE/CS courses at Cornell. The class covers topics that build upon each other, eventually leading to how modern advanced processors work. The courses cover instruction scheduling, pipelining, and branch prediction. However, one aspect that could be improved is the allocation of time. We spent significant time reviewing core ECE 2300 topics, limiting our exploration of other fascinating subjects.
+
+    The workload for this class is undeniably heavy, with lectures and discussion sections held every week. Despite the demanding nature of the course, Professor Batten's teaching methodology stands out as the best I have encountered during my time at Cornell. With a class size of approximately 90 students, he distributes empty lecture notes that he fills in real-time during class, allowing us to follow along effectively. He actively calls on students within the class and diligently listens to students' questions. The engagement within the class is unparalleled in other courses. In other classes, sometimes I would feel tired and have a hard time listening, but I never felt that in this class. Each topic covered was concise as he walked us through examples on the notes sheet. The lectures were amazing and shouldn't be missed. 
+
+    Outside the lectures, we had four significant labs, a variable latency multiplier, a fully pipelined process, a blocking cache, and a multi-core processor with a network. These labs are pretty heavy and require a lot of Verilog to complete. The labs are partner based, but the labs are in an awkward state where there is barely enough work to split, but if you work with a partner, you lose out on many of the potential Verilog skills. The labs tested how programmers code in hardware. The methodology for coding is drastically different, and you will need to change how you think to build these systems. 
+
+    For exams, there are practice problems without any solutions. Initially, I thought this was weird, but spending time with other students digging through the questions with others helped my fundamental understanding of the topics covered within class. The exams are long but fair in relation to the practice problems received. 
+
+    Overall, the class is extremely well organized, the professor is amazing, and the content is captivating. I highly recommend this class to anyone interested in lower-level systems and hardware. I thoroughly enjoyed the entire class, and it helped me understand the underlying hardware I'm programming on and improve my Verilog knowledge.
+
 - PLBIO 2400: Green World, Blue Planet
 
-- TA for CS 1110
-    Same as Previous Semesters
+    By far the easiest class I have ever taken at Cornell. The class only had a weekly discussion section where we wrote 300 words for the topic we covered and sat in class for Poll everywhere. For exams, you can either take the multiple choice, written, or oral exam. I chose to do the oral exam. Opting for the oral exam, I engaged in a ten-minute discussion with the professor, responding to his inquiries about the topics covered in class. The extent I studied was cramming the day prior before the oral exam and landing a 100 each time. 
+
+    Overall, this class not only delivered on its promise of being remarkably effortless but also served as a delightful addition to my academic journey at Cornell.
+
+- TA for CS 1110 (CS 4090)
+
+    Same as Previous Semesters except this semester I took TA for credit to fufill some credit requirements.
 
 - Recruiting for Internship
 
@@ -310,6 +355,8 @@ Credits: 16
 
 Credits: 19
 
+This semester I had the most fun and the most pain. I loved compilers and distributed computing. Both classes covered topics I was interested in and stressed my programming skills. For this semester, I coded over 20000 lines of Java and pushed my limits. Despite its challenges, this semester was by far the most rewarding experience. I encourage everyone not to avoid difficult classes but embrace them. These two classes are two of the best CS courses offered at Cornell.
+
 <!-- ## Summer 2023
 
 #### Reflection
@@ -318,7 +365,7 @@ Credits: 19
 
 ## Fall 2023 Difficulty: TBD
 - ECE 5775: High Level Digital Design Automation
-- CS 5154: Software Testing
+- CS 5154: Software Testing or CS 6410: Advanced System or CS 6120: Advanced Compilers (😭 all in the same timeslot)
 - ECE 5750/ CS 5420: Advanced Computer Architecture
 - CS 5320: Introduction to Database Systems
 - CS 6230: Advanced Topics in Parallel Computing
