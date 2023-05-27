@@ -350,8 +350,6 @@ As a junior, I can finally take the computer science courses I enjoy after takin
 
 ## Spring 2023 Difficulty: Hard/Death
 
-- <span style="color:red">⭐ CS 4120 + CS 4121: Introduction to Compilers + Practicum</span>
-
 - <span style="color:red">⭐ CS 5414: Distributed Computing Principles</span>
 
     This class is probably the most conceptually difficult systems course at Cornell. Professor Alvisi powerfully expresses his passion for this research area through his lectures. The content is challenging, often reflecting the difficulties of building and maintaining real-world distributed systems. 
@@ -366,6 +364,22 @@ As a junior, I can finally take the computer science courses I enjoy after takin
     For the final two labs: Paxos and Shard Key/Value Store, many students in the class couldn't finish the labs because either they started too late, didn't understand the protocol, or there was a deeply nested bug within their code. I spent countless hours with my partner digging through execution files to find the exact interleaving that broke our code. As one of the few people in the class to finish all the labs, it was an incredibly rewarding experience.
 
     CS 5414 is a much take class for every single CS major. In our modern world, everything is a distributed system, and learning the fundamentals of how these systems work is invaluable to any future work in the industry.
+
+- <span style="color:red">⭐ CS 4120 + CS 4121: Introduction to Compilers + Practicum</span>
+
+    Compilers are an infamous class for the sheer workload, and I would say it lives up to fame. Everybody in the class is passionate and ready to dedicate their time to completing the compiler. Professor Myers does an excellent job of teaching the fundamentals of compiler workflows, and he enriches the room with his insight into the various topics. 
+
+    While CS 5414 might be the most conceptually difficult class I've taken, compilers are the heaviest workload class I've taken at Cornell by a mile. The core of the class consists of building a full compiler with a command line from scratch for a language similar to Java. Compilers is the first class at Cornell, where I felt you needed a strong team to succeed. Our resulting compiler is about 20k lines of Java. The course covers the full compilation process from lexing, parsing, and type checking to assembly generation and optimizations. 
+
+    For future students of compilers, my most important message is finding a good team of four that works well together. You want a balance of people who are strong leaders and followers. I know teams who struggled because all four members were super strong, and nobody could agree with anybody else ideas. On the other hand, there were groups where the entire compiler design rested upon a single person's shoulders. I believe two people with strong design skills are perfect, with two others who can listen and follow the design these people set up. With two designers, each one can bounce ideas off one other without ever feeling burnt out. 
+
+    Personally, I did a large majority of our compiler's design and implementation. Sometimes, it would be awkward when I didn't know how to design a class or an overarching system our compiler would follow. However, I believe that everybody on the team was invaluable in the project's overall completion. 
+
+    My favorite component of the class was the final assignment, where we built optimizations for our compiler. I spent weeks building optimizations that would improve the runtime of our compiler and tested our runtime against other teams in the compiler bakeoff. It formed a sense of competition that drove me to keep iterating upon our compiler and put in those extra optimizations. 
+
+    Similar to the CMU compiler course, a running joke I saw was that many teams spend a long time implementing SSA, only for the implementation not to be as beneficial as it could be. I wholeheartedly agree. We spent around a full week implementing the form, only to realize that many of the more complex optimizations would be hard to implement because there were many edge case bugs within our intermediate representation. As a result, we worked very carefully to work around these bugs but still tried to incorporate as many optimizations as possible.
+
+    The class is by far the most work I have ever put into a class. There were many weeks where I would spend over 30 hours tweaking bits of our compiler, working with my team, or adding another optimization. I thoroughly enjoyed the entire class, and the amount of code I wrote has made me a better programmer. A strong recommendation from me!
 
 - <span style="color:red">👍 CS 4414: Systems Programming</span>
 
