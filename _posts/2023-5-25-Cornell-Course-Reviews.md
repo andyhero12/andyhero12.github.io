@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Cornell Course Reviews
+title: Comprehensive Cornell Course Reviews
 ---
 ## Introduction
 <!-- Similar pages at CMU: 
@@ -215,18 +215,65 @@ As if I had learned nothing the previous semester, I continued to overload mysel
 
 ## Spring 2022 Difficulty: Medium
 - ARKEO 2668: Ancient Egyptian Civilization
+
+    My philosophy for engineering liberal studies has always been to choose the most accessible classes. This class is no different. The class consists of a weekly post on Canvas and three multiple-choice exams. The workload for the class was minimal, which allowed me to divert much of my attention to my other classes.
+
+    The class covers Egyptian history up until the last Egyptian dynasty. Overall, the class provided me with a free A+ and was a liberal study requirement to graduate. 
+
 - ECE 3140/ CS 3420: Embedded Systems
-- CS 4670: Introduction to Computer Vision
+
+    As the second part of the ECE 2300 -> CS 3420 path, the class was easy. However, I felt like there was a lot left on the table. The course covers basic assembly and calling conventions and includes basic threads and concurrency. The class isn't taught the best, and I wish there were a little more engagement other than the weekly async videos and quizzes.
+
+    The projects covered within the class aren't that helpful in understanding the topics covered. Additionally, working on the board felt somewhat awkward because of the lack of support for the hardware. The final project requires you to use the board meaningfully to build a physical embedded system. 
+
+    Besides the infrequent projects and weekly lecture quizzes, I didn't put much work into the class. The project partners are randomly assigned, which can also lead to issues. If I didn't need to take an ENGRD (2300), I definitely would've rather chosen to take 3410 strictly from the amount of material I would learn. I enjoy the systems component of Computer Science, so this class was moderately a letdown. However, if you want to get the systems requirement out of the way and don't need 2300, then you can take this course. While it won't help your learning as much, it is an option. Luckily in ENGRD 2300, I believe that the Verilog you learn in the course and the various foundational principles make up for the lack of material covered within this class. 
+
 - CS 4700: Foundations of Artificial Intelligence
+
+    I took this class because I still didn't have enough background to take the more advanced systems classes, and I needed another technical elective that I would find easy. However, this class was a lot harder than in previous semesters. The professors changed the course structure by incorporating additional content, which unfortunately resulted in a more superficial coverage of the topics and a lack of overall direction.
+
+    The course content jumped from Bayesian reasoning to search algorithms, then to Markov models, supervised learning, and propositional logic. This rapid progression made it difficult to develop a solid foundation in any of the subjects, as we would barely scratch the surface of one topic before moving on to the next unrelated topic.
+
+    Moreover, several newly introduced assignments were not thoroughly tested and seemed disconnected from the material we had covered. Although not excessively difficult, these assignments consumed significant time to complete. They encompassed both Python programming projects and written assignments.
+
+    Throughout the course, many other classmates also complained about the course due to the unfair grading scheme, the 15-page prelim, or the unresponsiveness of TAs. 
+
+    I believe my experience in CS 4700 only reflects that semester, as I heard the class has gotten a bit better with different professors and a more revised content schedule.
+
+- CS 4670: Introduction to Computer Vision
+
+    Similar to CS 4700, I wanted to take a few easier classes alongside CS 4820. Unlike CS 4700, the class was actually easy. The curriculum primarily focused on older aspects of computer vision, such as edge and line detection, which was somewhat disappointing considering we only touched on modern convolutional neural networks in the final week.
+
+    The class consists of four projects that aren't too diffucult. I chose to work with a partner, which greatly reduced the overall stress level of the course. In addition to projects, we had one prelim and a final. The final was moved online, which made the median very high. I believe that more recent offerings of the course have become even easier because both exams are online.
+
+    I would describe my learning experience in this class as a solid foundation in image detection basics. However, the course content lacks practical applications for modern computer vision. Instead, it primarily focuses on the historical development of computer vision over the past few decades. Overall, it was an enjoyable class that didn't significantly add to the stress in my schedule.
+
 - 👍 CS 4820: Intro Analysis of Algorithms
+
+
 - 👍 ECE 3100: Probability and Inference
 
+    I took another probability class because I felt like I didn't learn enough from BTRY 3080, and I wanted to fulfill my ECE external spec with another 3k+ ECE class. Like BTRY 3080, the topics covered basic Bayesian logic, components of set theory, normal distributions, and other statical tests. 
+
+    I enjoyed the course more than BTRY because the professor was a lot more fun, her lectures were clearer, and the homework (although more) was closely tied to the source material. Additionally, a few programming assignments were a fun addition to simulating probability results.
+
+    There was even a final project provided where we had to simulate the spread of Covid-19 and model it through Python code. However, I think the final project has gotten discontinued since I took the class.
+
+    The one downside to the class is how the difficulty scales throughout the semester. The content covered for the first 4/5 of the class was very straightforward, but the content got a lot harder for the final exam. As a result, the previous exam medians of 80% became 50% for the final. However, I don't think the difficulty of the last part of the course detracts from the overall content and learning I received throughout the course. 
+
 - TA for CS 1110
+
     Same as Previous Semesters
 
 #### Reflection
 
 Credits: 22
+
+Despite the seemingly intense semester with five STEM classes and one liberal study, the semester was a lot easier than the previous semester. CS 4670, CS 3420, and ARKEO 2668 were small amounts of work for an easy grade. As a result, I only spent time doing the remaining three courses. Initially, I had heard that CS 4700 was easy, but it turned out that they revamped the course with the new professor and made it astronomically harder. 
+
+For CS 4820 and ECE 3100, it was always a consistent amount of work studying for exams and doing the problem sets.
+
+I was lucky enough to get an interview for Amazon in early spring, where I landed the internship successfully. I ended up going to Amazon the following summer for my sophomore summer.
 
 <!-- ## Summer 2022
 
