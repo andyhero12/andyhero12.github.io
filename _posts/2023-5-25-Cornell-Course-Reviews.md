@@ -216,15 +216,14 @@ As if I had learned nothing the previous semester, I continued to overload mysel
 
 ## Spring 2022 Difficulty: Medium
 
-- <span style="color:red">Recruiting for Internship</span>
-- ARKEO 2668: Ancient Egyptian Civilization
+- <span style="color:red">ARKEO 2668: Ancient Egyptian Civilization</span>
 
     My philosophy for engineering liberal studies has always been to choose the most accessible classes. This class is no different. The class consists of a weekly post on Canvas and three multiple-choice exams. The workload for the class was minimal, which allowed me to divert much of my attention to my other classes.
 
     The class covers Egyptian history up until the last Egyptian dynasty. Overall, the class provided me with a free A+ and was a liberal study requirement to graduate. 
 
-- <span style="color:red">Recruiting for Internship</span>
-- ECE 3140/ CS 3420: Embedded Systems
+- <span style="color:red">ECE 3140/ CS 3420: Embedded Systems</span>
+
 
     As the second part of the ECE 2300 -> CS 3420 path, the class was easy. However, I felt like there was a lot left on the table. The course covers basic assembly and calling conventions and includes basic threads and concurrency. The class isn't taught the best, and I wish there were a little more engagement other than the weekly async videos and quizzes.
 
@@ -232,8 +231,7 @@ As if I had learned nothing the previous semester, I continued to overload mysel
 
     Besides the infrequent projects and weekly lecture quizzes, I didn't put much work into the class. The project partners are randomly assigned, which can also lead to issues. If I didn't need to take an ENGRD (2300), I definitely would've rather chosen to take 3410 strictly from the amount of material I would learn. I enjoy the systems component of Computer Science, so this class was moderately a letdown. However, if you want to get the systems requirement out of the way and don't need 2300, then you can take this course. While it won't help your learning as much, it is an option. Luckily in ENGRD 2300, I believe that the Verilog you learn in the course and the various foundational principles make up for the lack of material covered within this class. 
 
-- <span style="color:red">Recruiting for Internship</span>
-- CS 4700: Foundations of Artificial Intelligence
+- <span style="color:red">CS 4700: Foundations of Artificial Intelligence</span>
 
     I took this class because I still didn't have enough background to take the more advanced systems classes, and I needed another technical elective that I would find easy. However, this class was a lot harder than in previous semesters. The professors changed the course structure by incorporating additional content, which unfortunately resulted in a more superficial coverage of the topics and a lack of overall direction.
 
@@ -245,8 +243,7 @@ As if I had learned nothing the previous semester, I continued to overload mysel
 
     I believe my experience in CS 4700 only reflects that semester, as I heard the class has gotten a bit better with different professors and a more revised content schedule.
 
-- <span style="color:red">Recruiting for Internship</span>
-- CS 4670: Introduction to Computer Vision
+- <span style="color:red">CS 4670: Introduction to Computer Vision</span>
 
     Similar to CS 4700, I wanted to take a few easier classes alongside CS 4820. Unlike CS 4700, the class was actually easy. The curriculum primarily focused on older aspects of computer vision, such as edge and line detection, which was somewhat disappointing considering we only touched on modern convolutional neural networks in the final week.
 
@@ -254,8 +251,7 @@ As if I had learned nothing the previous semester, I continued to overload mysel
 
     I would describe my learning experience in this class as a solid foundation in image detection basics. However, the course content lacks practical applications for modern computer vision. Instead, it primarily focuses on the historical development of computer vision over the past few decades. Overall, it was an enjoyable class that didn't significantly add to the stress in my schedule.
 
-- <span style="color:red">Recruiting for Internship</span>
-- 👍 CS 4820: Intro Analysis of Algorithms
+- <span style="color:red">👍 CS 4820: Intro Analysis of Algorithms</span>
 
     The second to last required class for CS majors. As many people have said, the class is quite a bit of work. There are weekly problem sets and multiple programming assignments. Conceptually, the topics were not too difficult. We covered greedy algorithms, dynamic programming, network flow, and Turing machines. 
 
@@ -263,8 +259,7 @@ As if I had learned nothing the previous semester, I continued to overload mysel
 
     Personally, I fairly enjoyed the course, and I never felt too stressed about it. However, this may be due to the fact that I had time to focus a large majority of my time on the class. 
 
-- <span style="color:red">Recruiting for Internship</span>
-- 👍 ECE 3100: Probability and Inference
+- <span style="color:red">👍 ECE 3100: Probability and Inference</span>
 
     I took another probability class because I felt like I didn't learn enough from BTRY 3080, and I wanted to fulfill my ECE external spec with another 3k+ ECE class. Like BTRY 3080, the topics covered basic Bayesian logic, components of set theory, normal distributions, and other statical tests. 
 
@@ -274,8 +269,7 @@ As if I had learned nothing the previous semester, I continued to overload mysel
 
     The one downside to the class is how the difficulty scales throughout the semester. The content covered for the first 4/5 of the class was very straightforward, but the content got a lot harder for the final exam. As a result, the previous exam medians of 80% became 50% for the final. However, I don't think the difficulty of the last part of the course detracts from the overall content and learning I received throughout the course. 
 
-- <span style="color:red">Recruiting for Internship</span>
-- TA for CS 1110
+- <span style="color:red">TA for CS 1110</span>
 
     Same as Previous Semesters
 
@@ -352,17 +346,39 @@ I was lucky enough to get an interview for Amazon in early spring, where I lande
 
 Credits: 16
 
-As a junior, I can finally take the computer science courses I enjoy after taking the required introductory system courses. ECE 4750 was by the most enjoyment I've had at Cornell. During this semester, I had a large mentality shift towards the classes I've taken and the classes I plan to take. Despite the heavy workload posed by some classes, these classes are often the most rewarding in terms of content and the sheer material you learn. Alonside these classes, recruiting took up one to five hours a day depending on the number of interviews I lined up. Ensuring your fall semester is a lighter workload is important for securing that internship.
+As a junior, I can finally take the computer science courses I enjoy after taking the required introductory system courses. ECE 4750 was the most enjoyment I've had at Cornell. During this semester, I had a large mentality shift toward the classes I've taken and the classes I plan to take. Despite the heavy workload posed by some classes, these classes are often the most rewarding in terms of content and the sheer material you learn. Alongside these classes, recruiting took up to five hours a day, depending on how many interviews I lined up. Ensuring your fall semester is a lighter workload is important for securing that internship.
 
 ## Spring 2023 Difficulty: Hard/Death
 
-- <span style="color:red">⭐ CS 4120: Introduction to Compilers</span>
-- <span style="color:red">⭐ CS 4121: Practicum in Compilers</span>
-- <span style="color:red">👍 CS 4414: Systems Programming</span>
+- <span style="color:red">⭐ CS 4120 + CS 4121: Introduction to Compilers + Practicum</span>
 - <span style="color:red">⭐ CS 5414: Distributed Computing Principles</span>
+- <span style="color:red">👍 CS 4414: Systems Programming</span>
+
+    To fulfill Cornell's systems requirements, students must take CS 4410 or CS 4414. I think CS 4410 is much more theoretical, whereas CS 4414 is a much more applied system. Both classes have their upside and downsides. 
+
+    In CS 4410, your focus is much more on threads, virtual memory, and filesystems. Your projects are based around these topics, and you spend much of the semester learning the foundations of these core system topics. 
+
+    In CS 4414, Professor Birman covers many topics important to becoming a good system programmer. He teaches about systems performance, threads, large-scale industrial systems, and C++ and hardware memory basics. There isn't an overarching cohesive message towards the class, which makes me believe it is a better secondary course to CS 4410. Professor Birman has the freedom to choose these topics because they are important to performance-based code and has opened my eyes to various methods of improving your code. Furthermore, the projects covered in class are more about improving the performance of your C++ capabilities by using Gprof to notice hot spots and reduce the time your program takes to run. 
+
+    I thoroughly enjoyed both courses, and I recommended people take CS 4410 and CS 4414 for those interested in coding with C++ and reinforcing their knowledge about systems-based programming.
+
 - <span style="color:red">ECE 5725: Embedded operating Systems</span>
+
+    Due to the enormous amount of CS 5414 and CS 4120 work, I chose the lowest workload ECE class that could count towards my external spec. That class ended up being ECE 5725. The workload consisted of weekly four-hour lab sessions throughout the entire semester. Outside the lab, homework assignments and the occasional lab report seldom existed. After the labs ended, we also needed to do a final project. 
+
+    The main crux of the class was the raspberry pi. Each lab utilized a physical component of the raspberry pi, such as the buttons screen or CPU. The class was very formulaic, but it was the class I needed to take to focus all my time on distributed systems and compilers. Combined, those classes took every single spare hour of the week I had. The class is quite fun and a good relaxing couple of hours each week within the lab.
+
 - <span style="color:red">ENGRC 3350: Organizational Communication for Engineers</span>
+
+    I never understood why Cornell makes second-semester seniors do product work for the NYSG. Within the class, many of the other students were in full senioritis mode. As a result, work would often get delayed; nobody wanted to do any work, including me.
+
+    However, the workload wasn't light either. We had to write over 15 work logs, textbook responses, and emails to our clients and build a product for them. Luckily, my team members and I could push through and deliver on the work required to finish the class. 
+
+    The engineering communication class is a requirement for all engineers and counts as a liberal study. I was lucky enough that my teammates were very helpful in finishing the required work before the deadline so that I could focus my time on other courses. There is a lot of busy work within the class that you constantly need to remind yourself to do.
+
 - <span style="color:red">TA for CS 4410</span>
+
+    I wanted to TA CS 4410 because I started getting bored of TAing CS 1110. Additionally, the students in CS 1110 started to feel more and more dependent on the TAs rather than doing any of the work themselves. As a result, I decided to branch out and TA CS 4410 because I was interested in operating systems and wanted to refresh my knowledge on the topic. 
 
 ### Reflection
 
