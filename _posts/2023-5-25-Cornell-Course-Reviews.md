@@ -189,7 +189,7 @@ Given how well I did in freshman fall, I overloaded myself with too much work th
 
     Overall, I enjoyed the professor's lectures and the content of the course. Although there was a lot of work throughout the class, I constantly prioritized this class over the others because the class felt more fun and exciting compared to my other classes. I highly recommend the course for those who can take ENGRD/ECE 2300!
 
-- Math 2940: Linear Algebra for Engineers
+- MATH 2940: Linear Algebra for Engineers
 
     Unlike Math 2930 last semester, I thought Math 2940 was much more manageable. The content made a lot more sense in the context of what we were learning. The workload was similar because we had weekly problem sets and exams.
 
