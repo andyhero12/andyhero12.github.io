@@ -161,6 +161,14 @@ Given how well I did in freshman fall, I overloaded myself with too much work th
 
 - CS 2800: Discrete Structures
 
+    The final requirement for me to affiliate with the Computer Science program was CS 2800. This course served as my introduction to proof-based classes, and I faced initial challenges as I navigated through unfamiliar territory. Set theory, in particular, delved into topics that were difficult for me to grasp, prompting me to seek independent study and frequent visits to office hours for assistance. However, the struggles I faced in this class ultimately improved my ability to write proofs, which proved invaluable in CS 4820 Algorithms.
+
+    Addtionally, the workload of this class was weekly problems sets as well as weekly discussion sections. Many of these introduction classes are filled with many problem sets that eat away at your time. CS 2800 is no different. For classes that I didn't have any background in, it is really important to take the time to foundationally understand what you are learning. Each of these Computer Science topics are cruical towards developing core computer science skills.
+
+    Outside of set theory, combinatorics, probabiliy, DFAs, and number theory were much more intuitive to me. Each of these concepts I had covered in different classes which greatly helped solidfy my understand of the material. 
+
+    A lot of people say that CS 2800 is diffucult. I agree. As a strong weeder for CS majors, I believe that some of the concepts covered within CS 2800 provide a strong mathmatical foundation of thinking for doing a computer science major at Cornell. While it is not my favorite class, I see the benefit of requiring all CS majors to take the class.
+
 - 👍 CS 3110: Data Structures & Functional Programming
 
     Like CS 2110, I wish I had put more time into this class earlier in the semester. The concepts are excellent, the methodology of thinking is different, and the projects seem very interesting. Unfortunately, I never really had the time to invest in the excellent scopes for the projects until the end of the semester. The only project I dedicated my time towards was the final Jocalf project, where I ended up doing the excellent and bonus scope of the project. Building an interpreter for language seemed very interesting and only increased my interest in taking compilers in my junior spring. 
