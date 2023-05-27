@@ -3,14 +3,16 @@ layout: page
 title: Cornell Course Reviews
 ---
 ## Introduction
-Similar pages at CMU: 
+<!-- Similar pages at CMU: 
 [1](https://wanshenl.me/courses/), 
 [2](https://weihang7.github.io/courses/),
 [3](https://ruiran.me/courses/),
 [4](https://hachiyuki8.github.io/cmu/course-reviews),
-[5](https://fanpu.io/courses/)
+[5](https://fanpu.io/courses/) -->
 
-My thoughts on Cornell Courses I've taken. My experiences may differ from others due to the strict Covid-19 restrictions and virtual classes during my freshman year. I would say I'm better at applied systems of computer science compared to theory. 
+My thoughts on Cornell Courses I've taken. My experiences may differ from others due to the strict Covid-19 restrictions and virtual classes during my freshman year. The choice of classes I took and enjoyed mainly reflects my interest in computer systems rather than the more theoretical side of computer science.
+
+I want to preface that the number of credits an average Cornell student takes is around 15 academic credits. I took 1-2 additional classes per semester compared to the average engineering student. Additionally, credit hours can be deceiving as some classes are much more work than their credits entail and vice versa. 
 
 👍 indicates a class I really enjoyed.
 
@@ -80,6 +82,8 @@ College of Engineering
 
 #### Reflection
 
+Credits: 20
+
 This semester was a relatively smooth semester for me. Since a large chunk of the student population didn't come to school in person, many of my days consisted of sitting in my room and listening to Zoom lectures. As a result, I didn't do much other than study, which may have made the classes easier because of the time I had on my hands. I talked to several other students online because many weren't at school, and I met them the following semester. Overall, CS 1110 was the highlight of the semester, which pushed me to keep exploring Computer Science in future semesters.
 
 ## Spring 2021 Difficulty: Hard
@@ -119,7 +123,7 @@ This semester was a relatively smooth semester for me. Since a large chunk of th
 
     Like Math 2930, this class was a lot of work and conceptually tricky. For those who had AP Physics C credit, it is a robbery. The amount of content covered in this class is incomparable to AP Physics C.
 
-    Besides the weekly problem sets, we also had four major labs throughout the semester, which ate up a lot of time. We covered basic circuits, magnetism, and various other topics that involved multi-variable calculus. This class was by far the most challenging class of the semester when incorporating the sheer amount of work and the conceptual difficulty of the topics. 
+    Besides the weekly problem sets, we also had four major labs throughout the semester, which ate up a lot of time. We covered basic circuits, magnetism, and various other topics that involved multi-variable calculus. This class was by far the most challenging class of the semester when incorporating the sheer amount of work and the conceptual difficulty of the topics. This was my least favorite class of the semester.
 
     However, I can't say that the class was all bad. I was lucky enough to land one of the select few in-person discussion sections where I met my girlfriend ❤️. 
     
@@ -136,6 +140,8 @@ This semester was a relatively smooth semester for me. Since a large chunk of th
 
 #### Reflection
 
+Credits: 24 -> 20
+
 Given how well I did in freshman fall, I overloaded myself with too much work this semester. I didn't learn much because I spread myself way too thin. Each class was a lot of work, quickly taking up days of my time either studying for exams or doing weekly problem sets. Additionally, the classes that ended up being a large amount of work were not my favorite, resulting in those classes feeling even worse. Although my grades didn't get much worse, I lacked a solid foundational understanding of the one CS course I took, and it was definitely a challenging semester.
 
 <!-- ## Summer 2021
@@ -146,23 +152,59 @@ Given how well I did in freshman fall, I overloaded myself with too much work th
 
 ## Fall 2021 Difficulty: Death
 - BTRY 3080: Probability Models & Inference
+
+    I was quite disappointed with this class, and I'm unsure why it turned out to be such a negative experience.  It was the first time the professor taught the class, and I initially took it because I heard it was easy. I was wrong. That was the previous professor that taught the course. The class was poorly taught, even though most concepts weren't too difficult. Although the class was marketed as an introduction to probability and statistics, I had a hard time following many of the things the professor was saying throughout the course, and it seems like I wasn't the only one. 
+
+    The exam medians were in the solid 40-50% range for the semester. However, I think the professor heavily curved the class resulting in an A- Median. While the workload was relatively minimal, with only five problem sets all semester, cramming for the exam was exceptionally difficult.
+
+    Overall, I would not say I liked taking the class with this professor, and the class only minimally improved my probability skills. However, I think different professors might be better at teaching the class. I took another probability course to understand the basics further and get an external spec requirement out of the way in ECE 3100.
+
 - CS 2800: Discrete Structures
+
 - 👍 CS 3110: Data Structures & Functional Programming
+
+    Like CS 2110, I wish I had put more time into this class earlier in the semester. The concepts are excellent, the methodology of thinking is different, and the projects seem very interesting. Unfortunately, I never really had the time to invest in the excellent scopes for the projects until the end of the semester. The only project I dedicated my time towards was the final Jocalf project, where I ended up doing the excellent and bonus scope of the project. Building an interpreter for language seemed very interesting and only increased my interest in taking compilers in my junior spring. 
+
+    Besides the projects, we had weekly labs to cover new functional programming techniques we had learned in class and four mini-in-class exams during the semester. 
+
+    Again, I went back after the semester ended to revisit many topics I didn't fully understand. I went back and did excellent scope for the Red-Black tree project and went through many of the labs again to understand functional style data structures and a programming methodology. 
+
+    CS 3110 is a great class that can transform your perspective on programming. While the data structures we learned, such as Maps, are similar to those in CS 2110, they are implemented differently in OCaml. Incorporating various functional programming techniques, such as mapping functions over collections and utilizing functional interfaces, has influenced my day-to-day programming. Even though my team's compiler project was written in Java, we often found functional programming, particularly pattern matching, to be superior, leading us to question our decisions. I firmly believe that CS 3110 and functional programming provide crucial insights for anyone aspiring to become a programmer.
+
 - ⭐ ENGRD/ECE 2300: Digital Logic & Computer Organization
+
+    I enjoyed this class. Similar to ENGRI 1210, it covers basic circuits, digital logic, and computer architecture. However, it covers them all in much greater depth. The class was taught well, and my background in ENGRI 1210 helped me understand the material better. The class digs into boolean algebra, digital clocks, caches, and how the hardware works when it is executing assembly instructions. The class gives a foundational understanding of the underlying hardware of your computer and is very helpful for future systems courses.
+
+    This class is either a core ECE class or a part of the ENGRD 2300 CS 3420 track instead of CS 3410. While I believe that ECE 2300 and CS 3410 are both great classes, CS 3420 is a letdown I will build upon in my CS 3420 section.
+
+    Within the class, we had bi-weekly problem sets and weekly labs. These labs would all be in Verilog, where we would code up (in hardware) finite-state machines, basic ALU units, and a full single-cycle processor. The labs are randomly assigned groups of two, which can be a pain if you and your partner don't have to align work schedules. 
+
+    Overall, I enjoyed the professor's lectures and the content of the course. Although there was a lot of work throughout the class, I constantly prioritized this class over the others because the class felt more fun and exciting compared to my other classes. I highly recommend the course for those who can take ENGRD/ECE 2300!
+
 - Math 2940: Linear Algebra for Engineers
+
+    Unlike Math 2930 last semester, I thought Math 2940 was much more manageable. The content made a lot more sense in the context of what we were learning. The workload was similar because we had weekly problem sets and exams.
+
+	The core components of the course cover matrices. The class teaches matrix multiplication, change of base, and many other helpful tools. The class is critical for any future mathematical CS course anyone plans to take. The core concepts of matrix multiplication are fundamental in Machine Learning and Numerical Analysis. 
+    
+    Overall, I thought the class was relatively taught well. The in-person component of the class helped me understand the proofs and calculations that took place. However, I still ended up mostly cramming for all the exams, which may not have been the most helpful for the future Machine Learning classes I took. 
+
 - TA for CS 1110
 
-    I started TAing for CS 1110 because I enjoyed taking the course. We hosted weekly discussion sections and had two hours of office hours. Taing CS 1110 helped me reinforce my understanding of basic Python syntax and computing principles. Furthermore, I gained the critical skill of explaining my thoughts to students who might not know the subject.
+    I started TAing for CS 1110 because I enjoyed taking the course. We hosted weekly discussion sections and had two hours of office hours. TAing CS 1110 helped me reinforce my understanding of basic Python syntax and computing principles. Furthermore, I gained the critical skill of explaining my thoughts to students who might not know the subject.
 
 - Recruiting for Internship
 
-    Recruiting for an internship was a four credit class on its own. I will expand more upon it in a separate blog. Recruiting added a lot of stress to an already stressful semester.
+    Recruiting for an internship was equivalent to a four credit class. I will expand more upon it in a separate blog. Recruiting added a lot of stress to an already stressful semester.
 
 <!-- - Reasearch (Dropped) -->
 
 #### Reflection
 
-As if I had learned nothing the previous semester, I continued to overload myself this semester. I chose to take four heavy STEM classes in addition to recruiting for an internship. I hadn't been recruited for an internship prior, so it was a learning experience doing leetcode and learning to apply to places consistently. This semester was by far the most challenging in terms of my stress levels. Each day I would constantly be swamped with the number of problem sets I had to complete, exams I had to prepare for, and the constant threat that I wouldn't get an internship. 
+Credits: 19
+
+As if I had learned nothing the previous semester, I continued to overload myself this semester. I chose to take five heavy STEM classes in addition to recruiting for an internship. Each of these classes was a large amount of work individually, but together they became very hard to manage. I hadn't been recruited for an internship prior, so it was a learning experience doing leetcode and learning to apply to places consistently. This semester was by far the most challenging regarding my stress levels. Each day I would constantly be swamped with the number of problem sets I had to complete, exams I had to prepare for, and the constant threat that I wouldn't get an internship. 
+
 ## Spring 2022 Difficulty: Medium
 - ARKEO 2668: Ancient Egyptian Civilization
 - ECE 3140/ CS 3420: Embedded Systems
@@ -170,9 +212,13 @@ As if I had learned nothing the previous semester, I continued to overload mysel
 - CS 4700: Foundations of Artificial Intelligence
 - 👍 CS 4820: Intro Analysis of Algorithms
 - 👍 ECE 3100: Probability and Inference
+
 - TA for CS 1110
+    Same as Previous Semesters
 
 #### Reflection
+
+Credits: 22
 
 <!-- ## Summer 2022
 
@@ -185,12 +231,17 @@ As if I had learned nothing the previous semester, I continued to overload mysel
 - CS 4780: Introduction to Machine Learning
 - ⭐ ECE 4750/ CS 4420 Computer Architecture
 - PLBIO 2400: Green World, Blue Planet
+
 - TA for CS 1110
+    Same as Previous Semesters
+
 - Recruiting for Internship
 
+    With my internship concluding at Amazon in the prior summer, I began recruiting starting in the summer. Similar to last year, I spent a large majority of my time recruiting for internships during the semester. I ended up taking two fewer courses to make sure I had enough time to recruit. I can't stress the importance of recruiting early. There were many people I knew that didn't end up getting the internships they desired because they started late and didn't prepare well enough. Personally, I ended up landing an internship at Citadel Securities, where I will be working on the Low Latency Software/FPGA Engineering Team.
 
 #### Reflection
 
+Credits: 16
 ## Spring 2023 Difficulty: Hard/Death
 - ⭐ CS 4120: Introduction to Compilers
 - ⭐ CS 4121: Practicum in Compilers
@@ -202,6 +253,7 @@ As if I had learned nothing the previous semester, I continued to overload mysel
 
 #### Reflection
 
+Credits: 19
 <!-- 
 ## Summer 2023
 
