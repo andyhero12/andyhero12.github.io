@@ -342,6 +342,9 @@ I was lucky enough to get an interview for Amazon in early spring, where I lande
 #### Reflection
 
 Credits: 16
+
+As a junior, I can finally take the computer science courses I enjoy after taking the required introductory system courses. ECE 4750 was by the most enjoyment I've had at Cornell. During this semester, I had a large mentality shift towards the classes I've taken and the classes I plan to take. Despite the heavy workload posed by some classes, these classes are often the most rewarding in terms of content and the sheer material you learn. Alonside these classes, recruiting took up one to five hours a day depending on the number of interviews I lined up. Ensuring your fall semester is a lighter workload is important for securing that internship.
+
 ## Spring 2023 Difficulty: Hard/Death
 - ⭐ CS 4120: Introduction to Compilers
 - ⭐ CS 4121: Practicum in Compilers
