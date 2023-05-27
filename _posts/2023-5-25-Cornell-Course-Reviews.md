@@ -300,13 +300,13 @@ I was lucky enough to get an interview for Amazon in early spring, where I lande
 
 - <span style="color:red">👍 CS 4410: Operating Systems</span>
 
-    The core backbone of all modern computers. Operating systems cover concurrency, threads, virtual memory, and file systems. There is a lot of content throughout the semester, and often some things can't be covered because there is so much material.
+    The core backbone of all modern computers. Operating Systems cover concurrency, threads, virtual memory, and file systems. There is a lot of content throughout the semester, and often some things can't be covered because there is so much material.
 
     One area of improvement is the reinforcement of class content through homework and projects. There seems to be a scarcity of assignments, which hinders establishing a robust learning environment. I haven't taken OS practicum, but integrating it into the CS 4410 curriculum would enhance the course's overall quality. Students would have more opportunities to solidify their understanding by requiring practical applications alongside theoretical concepts.
 
-    On the other hand, the content is taught pretty well by Professor Alvisi. The class is interesting and provides much insight into how modern operating systems handle the underlying hardware. I may be biased, but I enjoy the content of systems courses. As a result, I spent a lot of time outside of class reading the OSTEP book for interview prep and for this class. 
+    On the other hand, the content is taught pretty well by Professor Alvisi. The class is interesting and provides much insight into how modern Operating Systems handle the underlying hardware. I may be biased, but I enjoy the content of systems courses. As a result, I spent a lot of time outside of class reading the OSTEP book for interview prep and for this class. 
 
-    Overall, system courses, including operating systems, align well with my aptitude and interests. The intricate interplay between hardware and software has always captivated me, and I appreciate the opportunity to delve into this domain.
+    Overall, system courses, including Operating Systems, align well with my aptitude and interests. The intricate interplay between hardware and software has always captivated me, and I appreciate the opportunity to delve into this domain.
 
 - <span style="color:red">👍 CS 4780: Introduction to Machine Learning</span>
 
@@ -351,7 +351,22 @@ As a junior, I can finally take the computer science courses I enjoy after takin
 ## Spring 2023 Difficulty: Hard/Death
 
 - <span style="color:red">⭐ CS 4120 + CS 4121: Introduction to Compilers + Practicum</span>
+
 - <span style="color:red">⭐ CS 5414: Distributed Computing Principles</span>
+
+    This class is probably the most conceptually difficult systems course at Cornell. Professor Alvisi powerfully expresses his passion for this research area through his lectures. The content is challenging, often reflecting the difficulties of building and maintaining real-world distributed systems. 
+
+    The course consists of three foundational distributed computing principles: Consistency, Consensus, and Reliability. The professor delves deep into these topics covering how people sought to build large-scale distributed systems using these principles and providing the theory behind these systems. 
+
+    As the professor mentions, there are two basic approaches to distributed computing: cover many interesting systems, and distill from them fundamental principles, or focus on a deep understanding of the fundamental principles and see them instantiated in a few systems. 
+    The class follows the latter. As a result, the class covers a lot of protocols about consensus and consistency.
+
+    In my opinion, the best part of the class was the labs. Four labs build upon each other. These labs are challenging and take students, on average, 50 hours to complete the later ones. On top of that, the labs require a keen understanding of the underlying system and a distributed method of thinking. You need to ensure that each line of code you write is as you intended. Often, you are writing the sender and receiver code within a single function and need to consider all data interleavings.
+
+    For the final two labs: Paxos and Shard Key/Value Store, many students in the class couldn't finish the labs because either they started too late, didn't understand the protocol, or there was a deeply nested bug within their code. I spent countless hours with my partner digging through execution files to find the exact interleaving that broke our code. As one of the few people in the class to finish all the labs, it was an incredibly rewarding experience.
+
+    CS 5414 is a much take class for every single CS major. In our modern world, everything is a distributed system, and learning the fundamentals of how these systems work is invaluable to any future work in the industry.
+
 - <span style="color:red">👍 CS 4414: Systems Programming</span>
 
     To fulfill Cornell's systems requirements, students must take CS 4410 or CS 4414. I think CS 4410 is much more theoretical, whereas CS 4414 is a much more applied system. Both classes have their upside and downsides. 
