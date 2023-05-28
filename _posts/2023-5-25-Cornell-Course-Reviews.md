@@ -20,7 +20,8 @@ Entering my junior year, I had a mentality shift where I started dedicating more
 
 ⭐ indicates a transformative class I strongly recommend taking.
 
-Semester Difficulty Ratings: {easy, medium, hard, death}.
+Semester Difficulty Ratings: {easy, medium, hard, death}.  
+Rated in terms of how stressed I was feeling on average throughout the semester.
 
 Background:
 - Intended Major
@@ -29,7 +30,7 @@ Background:
     - I didn't touch a single line of code coming into Cornell
 - Math Background
     - I did a subset of Multi-Variable Calculus in high school
-    - I never qualified for any awards for competition math.
+    - I didn't participate much for competition math.
     
 ##### Degree: 
 B.S, M.Eng in Computer Science 
