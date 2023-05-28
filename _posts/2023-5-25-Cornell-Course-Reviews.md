@@ -179,7 +179,7 @@ Given how well I did in freshman fall, I overloaded myself with too much work th
 
     Overall, I would not say I liked taking the class with this professor, and the class only minimally improved my probability skills. However, I think different professors might be better at teaching the class. I took another probability course to understand the basics further and get an external spec requirement out of the way in ECE 3100.
 
-- __CS 2800: Discrete Structures</span>__  
+- __CS 2800: Discrete Structures__  
     <span style="color:grey">Alexandra Silva & Frans Schalekamp</span>
 
     The final requirement for me to affiliate with the Computer Science program was CS 2800. This course served as my introduction to proof-based classes, and I faced initial challenges as I navigated through unfamiliar territory. Set theory, in particular, delved into difficult topics for me to grasp, prompting me to seek independent study and frequent visits to office hours for assistance. However, my struggles in this class improved my ability to write proofs, which proved invaluable in CS 4820 Algorithms.
