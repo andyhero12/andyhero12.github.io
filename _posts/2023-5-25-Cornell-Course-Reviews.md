@@ -149,7 +149,7 @@ This semester was a relatively smooth semester for me. Since a large chunk of th
 - __ECE 2100: (Dropped)__  
     <span style="color:grey">Khurram Afridi</span>
 
-    One of the only classes I dropped at Cornell. I was overloaded with credits this semester (25) and thought I could pull through. The class wasn't too hard, but I just ran out of time studying for my other classes. I dropped the class right before the first prelim because I had not gone to rank for the past two weeks, had some friend issues, and had another prelim the same night. The decision to drop out was hard because it would set me back from becoming an ECE major and bring down my perception of myself.
+    One of the only classes I dropped at Cornell. I was overloaded with credits this semester (25) and thought I could pull through. The class wasn't too hard, but I just ran out of time studying for my other classes. I dropped the class right before the first prelim because I had not gone to class for the past two weeks, had some friend issues, and had another prelim the same night. The decision to drop out was hard because it would set me back from becoming an ECE major and bring down my perception of myself.
 
 - __PHYS 4485: Teaching Experience I__  
     <span style="color:grey">Jim Baker</span>
