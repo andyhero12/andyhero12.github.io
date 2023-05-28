@@ -280,7 +280,7 @@ As if I had learned nothing the previous semester, I continued to overload mysel
 - __👍 CS 4820: Intro Analysis of Algorithms__  
     <span style="color:grey">Eshan Chattopadhyay</span>
 
-    The second to last required class for CS majors. As many people have said, the class is quite a bit of work. There are weekly problem sets and multiple programming assignments. Conceptually, the topics were not too difficult. We covered greedy algorithms, dynamic programming, network flow, and Turing machines. 
+    The second to last required class for CS majors. As many people have said, the class is quite a bit of work. There are weekly problem sets and multiple programming assignments. Conceptually, the topics were not too difficult. We covered greedy algorithms, dynamic programming, NP-Completeness network flow, and Turing machines. 
 
     There is a prevailing belief among many students that completing this class is essential for securing internships. While some of the greedy and dynamic programming algorithms covered are indeed useful, several other algorithms covered, such as network flow, tend to be beyond the scope of most interview requirements. In my opinion, CS 2110 provides a sufficient foundation to begin seeking internships.
 
@@ -450,7 +450,7 @@ As a junior, I can finally take the computer science courses I enjoy after takin
 
 Credits: 19
 
-This semester I had the most fun and the most pain. I loved compilers and distributed computing. Both classes covered topics I was interested in and stressed my programming skills. For this semester, I coded over 20000 lines of Java and pushed my limits. Despite its challenges, this semester was by far the most rewarding experience. I encourage everyone not to avoid difficult classes but embrace them. These two classes are two of the best CS courses offered at Cornell.
+Although this semester's workload was far greater than my other death semester (sophomore fall), the sheer enjoyment and fun I had within these classes significantly eased the amount of stress caused by the workload. Furthermore, I didn't have to constantly think about not having a job the following summer, which caused a lot of stress. This semester, there were many times were I would sit down at my computer beginning to work on compilers. At 9 am, I would blink, and it would be 5 pm. I had the most fun and pain this semester through these classes. I loved compilers and distributed computing. For this semester, I coded over 20000 lines of Java, and it pushed my limits. Despite its challenges, this semester was by far the most rewarding experience. I encourage everyone not to avoid difficult classes but embrace them. Distributed Computing and Compilers are two of the best CS courses offered at Cornell, and people shouldn't miss them!
 
 <!-- ## Summer 2023
 
