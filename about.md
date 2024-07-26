@@ -4,7 +4,7 @@ title: About
 permalink: /about/
 ---
 
-Hi! I'm Andrew, and I'm a rising senior (class of 2024) studying Computer Science at Cornell University.
+Hi! I'm Andrew, and I'm a B.S, M.Eng Alum (class of 2024) who studied Computer Science at Cornell University.
 
 ### Interests
 
